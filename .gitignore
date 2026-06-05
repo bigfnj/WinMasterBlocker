@@ -24,3 +24,6 @@ WinMasterBlocker-*.log
 wmb-uac-*.env
 SHA256SUMS.txt
 RELEASE_NOTES.md
+
+SESSION_LOG*.md
+SESSION_HANDOFF*.md
