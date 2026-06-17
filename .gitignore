@@ -27,3 +27,6 @@ RELEASE_NOTES.md
 
 SESSION_LOG*.md
 SESSION_HANDOFF*.md
+.codex/
+.windsurfrules
+SESSION_*
